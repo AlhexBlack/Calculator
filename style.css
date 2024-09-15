@@ -27,6 +27,12 @@
     border: none;
     outline: none;
 }
+.smallFont{
+    font-size: 5vh;
+}
+.largeFont{
+    font-size: 10vh;
+}
 #display::placeholder{
     color: white;
 }
